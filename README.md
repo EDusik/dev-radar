@@ -1,2 +1,2 @@
-# omnistack-10.0
-:pencil: Node, React and React Native projects to find GitHub users
+# About
+These projects was based on the Rocketseat course that you can find in this link: https://rocketseat.com.br/
