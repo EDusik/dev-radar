@@ -1,6 +1,8 @@
 import React from 'react';
-import './global.css';
+
 import './App.css';
+import './global.css';
+import './Main.css'
 import './Sidebar.css'
 
 function App() {
@@ -31,7 +33,58 @@ function App() {
         </form>
       </aside>
       <main>
+        <ul>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars2.githubusercontent.com/u/18349592?s=400&u=b34281200c17951b2d5da9c30aeb805349ed806e&v=4" alt="" />
+              <div className="user-info">
+                <strong>Eduardo Dusik</strong>
+                <span>Angular, React Js, Node Js</span>
+                <p>Lover of RPG, card games and programming. I really like power metal and i'm unable to stay more than 12 hours without coffee.</p>
+                <a href="https://github.com/edusik">access github profile</a>
+              </div>
+            </header>
+          </li>
 
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars2.githubusercontent.com/u/18349592?s=400&u=b34281200c17951b2d5da9c30aeb805349ed806e&v=4" alt="" />
+              <div className="user-info">
+                <strong>Eduardo Dusik</strong>
+                <span>Angular, React Js, Node Js</span>
+                <p>Lover of RPG, card games and programming. I really like power metal and i'm unable to stay more than 12 hours without coffee.</p>
+                <a href="https://github.com/edusik">Access github profile</a>
+              </div>
+            </header>
+          </li>
+
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars2.githubusercontent.com/u/18349592?s=400&u=b34281200c17951b2d5da9c30aeb805349ed806e&v=4" alt="" />
+              <div className="user-info">
+                <strong>Eduardo Dusik</strong>
+                <span>Angular, React Js, Node Js</span>
+                <p>Lover of RPG, card games and programming. I really like power metal and i'm unable to stay more than 12 hours without coffee.</p>
+                <a href="https://github.com/edusik">Access github profile</a>
+              </div>
+            </header>
+          </li>
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars2.githubusercontent.com/u/18349592?s=400&u=b34281200c17951b2d5da9c30aeb805349ed806e&v=4" alt="" />
+              <div className="user-info">
+                <strong>Eduardo Dusik</strong>
+                <span>Angular, React Js, Node Js</span>
+                <p>Lover of RPG, card games and programming. I really like power metal and i'm unable to stay more than 12 hours without coffee.</p>
+                <a href="https://github.com/edusik">Access github profile</a>
+              </div>
+            </header>
+          </li>
+
+        </ul>
       </main>
     </div>
   );
