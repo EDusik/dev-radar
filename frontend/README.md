@@ -1,8 +1,10 @@
 # About
+Front-end of the project in React
 
 ## Install Dependencies
 yarn install
 
-## Run the Project
-yarn start
+### Dependences
 
+### To Run The Back-end via Nodemon
+yarn start

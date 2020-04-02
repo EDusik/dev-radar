@@ -1,5 +1,5 @@
 # About
-Backend of the project in node.js
+Back-end of the project in Node
 
 ## Commands
 ### Dependences
