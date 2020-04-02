@@ -2,7 +2,8 @@
 React Native
 
 ## Creat New Project with Expo
-expo init `name of the project`
+
+`expo init 'name of the project'`
 
 ### Dependencies
 ```npm
