@@ -1,10 +1,11 @@
 # About
-Back-end of the project in Node
+Node
 
 ## Commands
 ### Dependences
 yarn install
-yarn add <name of the package>
 
 ### To Run The Back-end via Nodemon
+```yarn
 yarn dev
+```
