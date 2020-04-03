@@ -1,6 +1,7 @@
 import socketio from 'socket.io-client';
+import { environment } from './environment';
 
-const socket = socketio('http://192.168.1.5:3333', {
+const socket = socketio(environment.url, {
   autoConnect: false,
 });
 
