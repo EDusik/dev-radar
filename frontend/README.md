@@ -2,13 +2,11 @@
 React
 
 ## Install Dependencies
-### To Run The Back-end via Nodemon
 ```yarn
 yarn install
 ```
 
-## Dependences
-### To Run The Back-end via Nodemon
+## Run The Front-end Project
 ```yarn
 yarn start
 ```
